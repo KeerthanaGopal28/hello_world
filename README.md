@@ -1,3 +1,2 @@
 # hello_world
-this repository is for practicing gitHub flow
-hi im keerthana
+this repository contains the interview questions 
